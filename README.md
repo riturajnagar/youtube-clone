@@ -1,8 +1,7 @@
 # YoutubeClone
 YouTube - clone with using YouTube API where you can watch any videos which availabe on youtube
 
-
-
+### Link [Netlify](https://tangerine-kleicha-1791dd.netlify.app/)
 
 
 ## Description
@@ -30,13 +29,4 @@ This as an clone of Youtube with using youtube API to learn how to call google a
 - Gain excessive knowledge on application of HTML , CSS & JS .
 - Explored how to call API and show it on my HTML page
 - Enjoyed the process of learning and creating the product.
-
-### Link [Netlify](https://tangerine-kleicha-1791dd.netlify.app/)
-
-### Screenshots
-![yt-clone](https://user-images.githubusercontent.com/101700934/192723197-0197e5c9-75e4-4b5a-b681-20bcd2bcda98.png)
-
-
-
-
 
